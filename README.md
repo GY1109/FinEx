@@ -1,3 +1,7 @@
+4+1製作:
+https://app.diagrams.net/#G1JX8PhNI-BGARJwvua4zd7delINgHqTp5#%7B%22pageId%22%3A%22cY5aBM-8cuI6r7o2jPcE%22%7D
+https://app.diagrams.net/#G1Zze6iX7QUH5i0_Gp7_nNhEJyyz8WUFVA
+
 很多同学技术能力很强，架构设计也做得很好，但是在给别人讲解的时候，总感觉像是“茶壶里煮饺子，有货倒不出”。
 
 其实，在为新员工培训系统架构、给领导汇报技术规划、上技术大会做演讲或者向晋升评委介绍工作贡献的时候，如果你能画出一张优秀的 软件系统架构图，就可以大大提升自己的讲解效果，让对方轻松地理解你想表达的关键点。
