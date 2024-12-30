@@ -194,7 +194,7 @@ AlipayHK的一个业务架构图如下所示：
 
 一个简单的支付系统的部署架构图如下所示：
 
-![image](https://github.com/GY1109/FinEx/blob/main/5555.png)
+![image](https://github.com/GY1109/FinEx/blob/main/66666.png)
 
 6. 系统序列图
 【定义】
@@ -213,7 +213,7 @@ AlipayHK的一个业务架构图如下所示：
 
 扫码支付这个支付核心场景的系统序列图如下所示：
 
-![image](https://github.com/GY1109/FinEx/blob/main/66666.png)
+![image](https://github.com/GY1109/FinEx/blob/main/777777.png)
 
 
 补充说明
