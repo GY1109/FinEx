@@ -220,3 +220,4 @@ AlipayHK的一个业务架构图如下所示：
 总结 
 今天我介绍了画软件系统架构图的总体思路，以及常见架构图的应用场景和画图技巧，整理如下：
 
+![image](https://github.com/GY1109/FinEx/blob/main/a04adfd8ffb7fd766433770cbf8d208c.png)
